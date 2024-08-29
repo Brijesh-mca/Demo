@@ -4,6 +4,10 @@ const userCredentials = [
     username: 'Brijesh',
     password: '1234'
 },
+    {
+        username: 'Pooja',
+        password:'1234'
+    },
 {
     username: 'Brijesh',
     password: 'Brijesh'
